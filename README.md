@@ -1,0 +1,1 @@
+# GenericAdapterreCyclerview-kotlin
